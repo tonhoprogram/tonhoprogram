@@ -10,11 +10,11 @@
 
 <div align="center">
   
-### Who am i?
+### Who am I?
 
 </div>
 
-My name is antonio and i'm a brazilian programmer <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Animated-Flag-Brazil.gif" width="20" >  
+My name is Antonio and i'm a Brazilian programmer <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Animated-Flag-Brazil.gif" width="20" >  
 
 Im a software engineering student at [UNISATC](https://unisatc.com.br/metodologia-do-ensino-superior-graduacao-unisatc/) <img src="https://unisatc.com.br/wp-content/uploads/2024/10/logo-satc.png" width="10" > in the major technological hub of Criciúma - Santa Catarina
 
@@ -25,13 +25,13 @@ Besides my programmer side, I'm interested in paleontology (bit out of character
 
 <div align="center">
   
-### Languages and tecnologies
+### Languages and technologies
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" height="67"  />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" height="67" />
   <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" height="67" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" height="67"  />
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" height="67"" />
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" height="67" />
 
 </p>
 <p align="center">
@@ -45,7 +45,7 @@ Besides my programmer side, I'm interested in paleontology (bit out of character
 </div>
 <div align="center">
   
-### Databases, IDE'S, Engines and Tools
+### Databases, IDEs, Engines and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" height="67" />
