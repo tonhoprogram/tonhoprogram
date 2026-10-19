@@ -20,7 +20,7 @@ Im a software engineering student at [UNISATC](https://unisatc.com.br/metodologi
 
 I mainly focus on web and game development, but I love any project that puts my mind into a brain-teasing state. My practice is guided by mastering fundamentals—such as data structures and algorithms—applied to both web development and game design. I prioritize clean, solid, and well-structured code that balances readability with performance. I treat every project as a complex system that requires deductive analysis, thorough problem-solving, and a commitment to software architecture best practices.
 
-Besides my programmer side, I'm interested in paleontology (bit out of character compared to everything else here, I know), Video Games, biology, geology, astronomy, astrophotography, gym, football, and a lot more
+Besides my programmer side, I'm interested in paleontology (bit out of character compared to everything else here, I know), Video Games, biology, geology, astronomy, astrophotography, muay thai, gym, football, and a lot more
 
 
 <div align="center">
